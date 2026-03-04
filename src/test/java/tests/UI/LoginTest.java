@@ -18,6 +18,8 @@ public class LoginTest {
 	WebDriver driver;
 	LoginPage loginPage;
 	DashboardPage dashboardPage;
+	
+	
 
 	@BeforeMethod
 	public void setup(ITestContext context) {
