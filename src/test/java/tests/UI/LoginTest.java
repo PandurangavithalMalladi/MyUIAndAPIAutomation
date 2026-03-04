@@ -19,8 +19,6 @@ public class LoginTest {
 	LoginPage loginPage;
 	DashboardPage dashboardPage;
 	
-	
-
 	@BeforeMethod
 	public void setup(ITestContext context) {
 
